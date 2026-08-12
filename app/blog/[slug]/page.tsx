@@ -12,7 +12,7 @@ export default function Page({ params }: Params) {
   return (
     <>
       <h1>Slug: {params.slug}</h1>
-      <p>LoganTest</p>
+      <p>Logan Test</p>
       <p>Test CICD</p>
     </>
   );
