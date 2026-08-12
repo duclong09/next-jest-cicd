@@ -13,6 +13,7 @@ export default function Page({ params }: Params) {
     <>
       <h1>Slug: {params.slug}</h1>
       <p>LoganTest</p>
+      <p>Test CICD</p>
     </>
   );
 }
